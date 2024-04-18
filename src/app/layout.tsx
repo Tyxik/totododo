@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 const myFont = clashGrotesk({
     src: '../../public/fonts/ClashGrotesk-Regular.ttf',
-    display: 'swap',
+            
 })
 
 export default function RootLayout(
